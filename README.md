@@ -10,19 +10,11 @@ Este es el portafolio personal de Jensen Ballen Banguera, un aprendiz del SENA e
 - **Etapa lectiva**: Desde el 7/11/2023 hasta el 7/8/2025.
 - **Inicio de práctica**: 8/8/2025 hasta el 6/2/2026.
 
-
-
 Este es el portafolio personal de Jensen Ballen Banguera, un estudiante de Análisis y Desarrollo de Software.
 
 ## Contenido
 
 - **Proyectos**: Una lista de proyectos en los que he trabajado.
-- **Contacto**: Información sobre cómo contactarme.
-
-
-- **Proyectos**: Una lista de proyectos en los que he trabajado.
-- **Contacto**: Información sobre cómo contactarme.
-
 
 ## Contacto
 
