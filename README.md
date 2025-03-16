@@ -23,11 +23,6 @@ Este es el portafolio personal de Jensen Ballen Banguera, un estudiante de Anál
 - **Proyectos**: Una lista de proyectos en los que he trabajado.
 - **Contacto**: Información sobre cómo contactarme.
 
-## Cómo desplegar
-
-1. Clona este repositorio en tu máquina local.
-2. Abre el archivo `index.html` en tu navegador para ver el portafolio.
-3. Para desplegar en Netlify, sube la carpeta del portafolio a tu cuenta de Netlify.
 
 ## Contacto
 
