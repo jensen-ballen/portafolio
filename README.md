@@ -26,4 +26,4 @@ Este es el portafolio personal de Jensen Ballen Banguera, un estudiante de Anál
 
 ## Contacto
 
-Puedes contactarme a través de mi correo electrónico: jensenbangueragmail.com o mi número: 3115009832.
+Puedes contactarme a través de mi correo electrónico: jensenbanguera@gmail.com o mi número: 3115009832.
